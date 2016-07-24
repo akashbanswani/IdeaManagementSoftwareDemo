@@ -1,0 +1,12 @@
+D:\Axis bank\IdeaManagement\IdeaManagement\bin\Debug\IdeaManagement.exe.config
+D:\Axis bank\IdeaManagement\IdeaManagement\bin\Debug\IdeaManagement.exe
+D:\Axis bank\IdeaManagement\IdeaManagement\bin\Debug\IdeaManagement.pdb
+D:\Axis bank\IdeaManagement\IdeaManagement\obj\Debug\IdeaManagement.csprojResolveAssemblyReference.cache
+D:\Axis bank\IdeaManagement\IdeaManagement\obj\Debug\IdeaManagement.Form1.resources
+D:\Axis bank\IdeaManagement\IdeaManagement\obj\Debug\IdeaManagement.Home.resources
+D:\Axis bank\IdeaManagement\IdeaManagement\obj\Debug\IdeaManagement.Properties.Resources.resources
+D:\Axis bank\IdeaManagement\IdeaManagement\obj\Debug\IdeaManagement.SignUp.resources
+D:\Axis bank\IdeaManagement\IdeaManagement\obj\Debug\IdeaManagement.csproj.GenerateResource.Cache
+D:\Axis bank\IdeaManagement\IdeaManagement\obj\Debug\IdeaManagement.exe
+D:\Axis bank\IdeaManagement\IdeaManagement\obj\Debug\IdeaManagement.pdb
+D:\Axis bank\IdeaManagement\IdeaManagement\obj\Debug\IdeaManagement.Changepass.resources
